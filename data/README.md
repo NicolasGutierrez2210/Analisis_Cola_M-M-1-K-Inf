@@ -4,7 +4,7 @@ En esta carpeta se incluyen los materiales usados para la parte **teórica y de 
 
 -  **Informe Modelo M/M/1/K**:  
   Documento PDF con el desarrollo matemático, fórmulas y resultados teóricos.  
-  → [Informe Modelo M/M/1/K](Informe__Modelo_M_M_1_K.pdf)
+  → [Informe Modelo M/M/1/K](Informe_Modelo_M_M_1_K.pdf)
 
 
 -  **Código en NetLogo**:  
