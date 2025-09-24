@@ -27,26 +27,4 @@ Esta carpeta se usa solo para documentar y enlazar el Colab; **los datos y grafi
 
 ---
 
-## Como instalar y usar NetLogo
-
-1. **Descargar NetLogo**  
-   - Ir a la pagina oficial: [https://ccl.northwestern.edu/netlogo/](https://ccl.northwestern.edu/netlogo/)  
-   - Descargar la version para tu sistema operativo (Windows, Mac o Linux).  
-   - Instalar NetLogo normalmente.  
-
-2. **Abrir el modelo**  
-   - Iniciar NetLogo.  
-   - Seleccionar en el menu: `File -> Open...`.  
-   - Buscar el archivo `.nlogo` incluido en la carpeta del proyecto   
-   - Hacer clic en **Abrir**.  
-
-3. **Ejecutar el modelo**  
-   - Presionar **Setup** para inicializar.  
-   - Presionar **Go** para ejecutar la simulacion.  
-   - Ajustar los sliders de parametros (lambda, mu, capacidad K) segun lo que se desee probar.  
-   - Observar la evolucion de la cola en los monitores y graficas de la interfaz.  
-
-4. **Notas**  
-   - El archivo `.nlogo` ya contiene la interfaz y los procedimientos `setup` y `go`.  
-   - El codigo puede modificarse desde la pestana **Code** para experimentar con cambios propios.  
 
