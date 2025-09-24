@@ -10,7 +10,7 @@ para el sistema de colas **M/M/1/K** y su comparacion con el caso **M/M/1/∞**.
 - El PDF contiene las formulas, deducciones y los calculos.
 - Una breve explicacion esta en el `README.md` de esa carpeta.
 
-### 2. [comparaciones_mesa/](./comparaciones_mesa)
+### 2. [comparaciones_mesa/](./mesas_comparacion)
 - Simulaciones realizadas en **Python con Mesa**.  
 - Incluye un enlace a un **Google Colab** que ejecuta el modelo con distintos parametros.  
 - Se presentan comparaciones entre:  
