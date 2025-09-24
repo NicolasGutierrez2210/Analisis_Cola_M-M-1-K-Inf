@@ -1,4 +1,4 @@
-#  Carpeta: Comparaciones (simulación en Python/Mesa)
+#  Carpeta: Comparaciones (simulacion en Python/Mesa)
 
 En esta carpeta se documentan las simulaciones realizadas con **Mesa (Python)** para comparar los dos escenarios de colas:
 
@@ -11,17 +11,17 @@ Cada ejecución genera métricas de interés:
 - `Tw` → tiempo promedio en cola  
 
 ##  Colab principal
-El código completo y todas las simulaciones están implementados en un único **Google Colab**:  
+El código completo y todas las simulaciones están implementados en un unico **Google Colab**:  
 
- [Abrir el Colab de simulación](https://colab.research.google.com/drive/1I099hLlR9XGvZPCy2jEfwChlonQHhIdh?usp=sharing)
+ [Abrir el Colab de la simulacion](https://colab.research.google.com/drive/1I099hLlR9XGvZPCy2jEfwChlonQHhIdh?usp=sharing)
 
 
 
 ## Contenido
 - El Colab incluye:
   - Definición de agentes (`Cliente`, `Servidor`) y del modelo (`SistemaColas`).  
-  - Ejecución de las simulaciones con distintos parámetros de λ y μ.  
-  - Gráficas comparativas (barras y evolución temporal de la cola).  
+  - Ejecucion de las simulaciones con distintos parámetros de λ y μ.  
+  - Gráficas comparativas (barras y evolucion temporal de la cola).  
 - Todos los resultados y figuras se obtienen directamente al ejecutar el notebook.  
 
 ## Nota
