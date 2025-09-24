@@ -27,7 +27,7 @@ Esta carpeta se usa solo para documentar y enlazar el Colab; **los datos y grafi
 
 ---
 
-## 🐢 Como instalar y usar NetLogo
+## Como instalar y usar NetLogo
 
 1. **Descargar NetLogo**  
    - Ir a la pagina oficial: [https://ccl.northwestern.edu/netlogo/](https://ccl.northwestern.edu/netlogo/)  
@@ -37,7 +37,7 @@ Esta carpeta se usa solo para documentar y enlazar el Colab; **los datos y grafi
 2. **Abrir el modelo**  
    - Iniciar NetLogo.  
    - Seleccionar en el menu: `File -> Open...`.  
-   - Buscar el archivo `.nlogo` incluido en la carpeta del proyecto (por ejemplo: `modelo_mm1k.nlogo`).  
+   - Buscar el archivo `.nlogo` incluido en la carpeta del proyecto   
    - Hacer clic en **Abrir**.  
 
 3. **Ejecutar el modelo**  
