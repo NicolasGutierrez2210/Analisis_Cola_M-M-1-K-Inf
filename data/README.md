@@ -11,7 +11,7 @@ En esta carpeta se incluyen los materiales usados para la parte **teórica y de 
   Archivo `.nlogo` con la simulación implementada en NetLogo, utilizado para comprobar los resultados del modelo matematico.  
   → [codigo.nlogo](codigo.nlogo)
 
-## Notas
+## Nota
 - El PDF explica en detalle el modelo matematico y presenta los calculos paso a paso.  
 - El codigo NetLogo permite replicar las simulaciones básicas y contrastarlas con los resultados teoricos.  
 
@@ -32,8 +32,5 @@ En esta carpeta se incluyen los materiales usados para la parte **teórica y de 
    - Presionar **Setup** para inicializar.  
    - Presionar **Go** para ejecutar la simulacion.  
    - Ajustar los sliders de parametros (lambda, mu, capacidad K) segun lo que se desee probar.  
-   - Observar la evolucion de la cola en los monitores y graficas de la interfaz.  
 
-4. **Notas**  
-   - El archivo `.nlogo` ya contiene la interfaz y los procedimientos `setup` y `go`.  
-   - El codigo puede modificarse desde la pestana **Code** para experimentar con cambios propios.  
+
